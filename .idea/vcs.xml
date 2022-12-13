@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mantis-tests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mantis-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../rest-sample" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../soap-sample" vcs="Git" />
   </component>
 </project>
