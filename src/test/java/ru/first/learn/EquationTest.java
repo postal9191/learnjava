@@ -8,7 +8,7 @@ public class EquationTest {
     @Test
     public void test0(){
         Equation e = new Equation(1,1,1);
-        Assert.assertEquals(e.rootnumber(),2);
+        Assert.assertEquals(e.rootnumber(),0);
     }
 
     @Test
